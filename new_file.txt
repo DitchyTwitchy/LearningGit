@@ -1,1 +1,2 @@
 Something awful
+-- more permanent line
